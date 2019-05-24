@@ -1,0 +1,32 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,680uF,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,~
+C12 C15 C18 C21 C24 C27 ,6,100uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~
+C2 C7 ,2,22uF,Capacitor_SMD:C_0603_1608Metric,~
+C3 ,1,8.2nF,Capacitor_SMD:C_0201_0603Metric,~
+C11 C14 C17 C20 C23 C26 C4 C5 C9 ,9,0.1uF,Capacitor_SMD:C_0603_1608Metric,~
+C10 C13 C16 C19 C22 C25 C6 C8 ,8,1uF,Capacitor_SMD:C_0603_1608Metric,~
+D1 D2 ,2,GRN,LED_SMD:LED_0603_1608Metric_Castellated,~
+H1 H2 H3 H4 ,4,MountingHole_Pad,MountingHole:MountingHole_8.4mm_M8_Pad,~
+J101 ,1,SYSTEM,ERW_Conn:ESHF-105-01-L-D,~
+J2 ,1,SCREW,ERW_Conn:CONN_1X02_2.54_SCREWTERM,~
+J3 ,1,5A,Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal,~
+J4 ,1,Voltage Selection,Connector_PinSocket_1.27mm:PinSocket_2x03_P1.27mm_Vertical,~
+L1 ,1,3.3uH,ERW_Inductor:INDC570X520X280,~
+Q1 ,1,FDS6681Z,ERW_SO:SO-8_5.3x6.2mm_P1.27mm,https://www.onsemi.com/pub/Collateral/FDS6681Z-D.PDF
+R10 ,1,120Ω,Resistor_SMD:R_0603_1608Metric,~
+R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R6 ,22,0Ω,Resistor_SMD:R_0603_1608Metric,~
+R2 ,1,1k,Resistor_SMD:R_0201_0603Metric,~
+R3 ,1,1k,Resistor_SMD:R_0603_1608Metric,~
+R103 R116 R38 R51 R64 R77 R90 ,7,10k,Resistor_SMD:R_0603_1608Metric,~
+R100 R101 R102 R104 R105 R106 R107 R108 R109 R110 R111 R112 R113 R114 R115 R117 R118 R119 R120 R121 R122 R32 R33 R34 R35 R36 R37 R39 R40 R41 R42 R43 R44 R45 R46 R47 R48 R49 R50 R52 R53 R54 R55 R56 R57 R58 R59 R60 R61 R62 R63 R65 R66 R67 R68 R69 R70 R71 R72 R73 R74 R75 R76 R78 R79 R80 R81 R82 R83 R84 R85 R86 R87 R88 R89 R91 R92 R93 R94 R95 R96 R97 R98 R99 ,84,1K,Resistor_SMD:R_0603_1608Metric,~
+R5 ,1,200Ω,Resistor_SMD:R_0603_1608Metric,~
+R7 ,1,100k,Resistor_SMD:R_0603_1608Metric,~
+R8 ,1,33.2k,Resistor_SMD:R_0805_2012Metric,~
+R1 R4 R9 ,3,10k,Resistor_SMD:R_0201_0603Metric,~
+TP1 ,1,TestPoint,TestPoint:TestPoint_Pad_D2.0mm,~
+TP2 TP3 TP4 TP5 ,4,TestPoint,TestPoint:TestPoint_Pad_1.5x1.5mm,~
+TP6 TP7 TP8 TP9 ,4,TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~
+U1 ,1,TPS562219A,ERW_TO_SOT_SMD:SOT-23-8,http://www.ti.com/lit/ds/symlink/tps562219a.pdf
+U2 ,1,TSL2591,ERW_DFN:DFN240X200X65-6,http://optoelectronics.liteon.com/upload/download/DS86-2013-0004/LTR-303ALS-01_DS_V1.pdf
+U10 U12 U14 U3 U4 U6 U8 ,7,PCA9685PW,Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm,http://www.nxp.com/documents/data_sheet/PCA9685.pdf
+U11 U13 U15 U5 U7 U9 ,6,BL-S230B,ERW_LED:BL-230X-13,
