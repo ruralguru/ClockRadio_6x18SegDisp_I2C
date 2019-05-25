@@ -12,4 +12,6 @@
 # Autorouter files (exported from Pcbnew)
 .dsn
 
+# .zip files (Used for archive and fab)
+
 I2C_6x18segDisp_fab/
