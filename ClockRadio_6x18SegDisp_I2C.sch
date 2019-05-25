@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ClockRadio_6x18SegDisp_I2C-cache
 EELAYER 26 0
 EELAYER END
 $Descr B 17000 11000

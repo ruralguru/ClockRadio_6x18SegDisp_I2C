@@ -5,6 +5,11 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.zip
+*.png
+*.xml
+*.csv
+
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -14,4 +19,6 @@
 
 # .zip files (Used for archive and fab)
 
-I2C_6x18segDisp_fab/
+*_fab/
+
+Docs/I2C_6x18segDisp\.ods
