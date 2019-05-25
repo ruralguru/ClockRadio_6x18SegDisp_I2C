@@ -5,7 +5,6 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
-*.zip
 *.png
 *.xml
 *.csv
@@ -20,5 +19,5 @@
 # .zip files (Used for archive and fab)
 
 *_fab/
+archive/
 
-Docs/I2C_6x18segDisp\.ods
