@@ -1432,4 +1432,36 @@ Wire Wire Line
 	6300 5600 7200 5600
 Wire Wire Line
 	7200 4500 7200 5600
+Text Label 5100 1700 0    50   ~ 0
+LED0
+Text Label 5200 1900 0    50   ~ 0
+LED1
+Text Label 5300 2100 0    50   ~ 0
+LED2
+Text Label 5000 3000 0    50   ~ 0
+LED3
+Text Label 5000 3100 0    50   ~ 0
+LED4
+Text Label 5000 3200 0    50   ~ 0
+LED5
+Text Label 5000 3300 0    50   ~ 0
+LED6
+Text Label 5000 3400 0    50   ~ 0
+LED7
+Text Label 5000 3500 0    50   ~ 0
+LED8
+Text Label 5000 3600 0    50   ~ 0
+LED9
+Text Label 5000 3700 0    50   ~ 0
+LED10
+Text Label 5000 3800 0    50   ~ 0
+LED11
+Text Label 5000 3900 0    50   ~ 0
+LED12
+Text Label 5000 4000 0    50   ~ 0
+LED13
+Text Label 5200 5000 0    50   ~ 0
+LED14
+Text Label 5100 5200 0    50   ~ 0
+LED15
 $EndSCHEMATC
